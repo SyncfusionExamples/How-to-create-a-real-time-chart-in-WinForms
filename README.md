@@ -1,4 +1,4 @@
-# How to create a real-time chart in WF?
+# How to create a real-time chart in WinForms?
 
 This example illustrates how to create a real time [chart in WinForms](https://help.syncfusion.com/windowsforms/chart/getting-started). Real-time charts can be created by continuously adding new points in existing series in chart. Timer is used to continuously add new points in the chart.
 
